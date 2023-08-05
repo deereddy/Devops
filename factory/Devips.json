@@ -1,0 +1,9 @@
+{
+	"name": "Devips",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f5278b7c-d7c4-46e0-add5-0ad5acaa9b86",
+		"tenantId": "728c6a21-f830-44df-bc5d-915cf4758607"
+	}
+}
